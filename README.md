@@ -1,7 +1,7 @@
 # html2md
 
 Demo:
-[Here/](https://benchan1997.github.io/html2md/)
+[Here](https://benchan1997.github.io/html2md/)
 
 html2md is a tool to convert html code to markdown format.
 
